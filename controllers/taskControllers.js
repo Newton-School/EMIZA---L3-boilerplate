@@ -91,7 +91,7 @@ Response -->
 json = {
   status: 'success',
   data: {
-    Status: 'pending',
+    status: 'pending',
     _id: 'mxcnbxzcn-khscc',
     heading: 'Study Doglapan',
     description: 'Need to study atleast 10 Pages',
